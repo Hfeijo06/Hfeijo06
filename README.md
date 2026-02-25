@@ -4,9 +4,8 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor focado em HTML, CSS, JAVASCRIPT e PHP.
+- 💻 Desenvolvedor focado em REACT/NEXT, NODE e TAILWIND.
 - 🎯 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-- 📚 Atualmente estudando: REACT, TAILWIND e NODE.
 - 🌐 Portfolio: em breve...
 
 ## 🛠️ Tecnologias que uso
